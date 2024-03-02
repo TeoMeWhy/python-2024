@@ -1,3 +1,5 @@
+import random
+
 
 def check_input():
     try:
@@ -28,7 +30,7 @@ def valida_entrada():
             return numero
 
 
-numero_sorte = 7
+numero_sorte = random.randint(1,15)
 
 for i in range(3):
 
