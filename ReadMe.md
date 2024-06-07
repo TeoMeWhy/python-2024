@@ -11,4 +11,12 @@ Todo o curso foi ministrado ao vivo nas lives da Twitch, canal [Téo Me Why](twi
 - Twitch: [Python](https://www.twitch.tv/collections/ifV7zaeStxdLGg)
 - YouTube: [Python](https://www.youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb)
 
-Você pode conferir os slides deste curso [aqui](https://docs.google.com/presentation/d/16i4cYCWV7nGGnbw3WVXMFBUenp6A8mqq/edit?usp=sharing&ouid=110890177118975546788&rtpof=true&sd=true).
+## Materiais para download
+
+|Material|Descrição|Link|
+|:-:|:-:|:-:|
+|Apresentação|Material didático para acompanhar durante as aulas|[:link:](https://docs.google.com/presentation/d/16i4cYCWV7nGGnbw3WVXMFBUenp6A8mqq/edit?usp=sharing&ouid=110890177118975546788&rtpof=true&sd=true)|
+|Dados|Pasta com dados de exemplo para aplicação prática|[:link:](https://drive.google.com/drive/folders/1N3U_U_8QqbkN4FMMLYg-_iRSEDDYWMGI?usp=sharing)|
+|Visual Studio Code|Interface de Desenvolvimento, é onde escreveremos nossos códigos|[:link:](https://code.visualstudio.com/)|
+|Python - Anaconda*|Linguagem de Programação com pacotes necessários para o curso|[:link:](https://code.visualstudio.com/)|
+|Git|Programa para controle de versão, utilizado apenas se você clonas este repositório ou criar seu próprio|[:link:](https://git-scm.com/download/win)|
